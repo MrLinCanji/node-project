@@ -1,1 +1,2 @@
-console.log("今天状态还可以");
+console.log('今天天气不错')
+
